@@ -56,7 +56,7 @@ _Add screenshots of login, video page, quiz, etc. if available._
 This was a group project developed as part of our final year diploma coursework (2023–24).  
 The app was built collaboratively by:
 
-- **Atharva Potdar** []– Major coding, Firebase integration, backend logic  
+- [**Atharva Potdar**] (https://www.linkedin.com/in/atharv-potdar-0a0023257/)– Major coding, Firebase integration, backend logic  
 - [**Aryan Patil**](https://www.linkedin.com/in/aryan-patil-6b248a325/) – Course modules, quizzes, compiler integration  
 - [**Amar Chavan**](https://www.linkedin.com/in/amarchavan1) – Project idea, UI design for key screens, assisted with planning and testing
 
