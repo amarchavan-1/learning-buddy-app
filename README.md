@@ -45,12 +45,6 @@ Learning Buddy is an Android app designed for students to learn and practice cod
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of login, video page, quiz, etc. if available._
-
----
-
 ## 👥 Team & Contribution
 
 This was a group project developed as part of our final year diploma coursework (2023–24).  
